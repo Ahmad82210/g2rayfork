@@ -1,6 +1,0 @@
-{
-  "name": "VLESS Proxy",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {},
-  "postCreateCommand": "chmod +x setup.sh && sudo bash setup.sh"
-}
